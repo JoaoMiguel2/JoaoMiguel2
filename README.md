@@ -1,7 +1,7 @@
 ### Olá, eu sou o João Miguel ✌🤙
 
-- 🔭 Trabalho com redes
-- 📕 Estudo back-end
+- 🔭 Trabalho em uma provedora de internet
+- 📕 Estudo Sistemas de informação
 
 <div align="center">
   <a href="https://github.com/JoaoMiguel2">
