@@ -2,7 +2,6 @@
 
 - 🔭 Trabalho com redes
 - 📕 Estudo back-end
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/JoaoMiguel2">
