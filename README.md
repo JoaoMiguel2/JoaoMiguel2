@@ -1,6 +1,6 @@
 ### Olá, eu sou o João Miguel ✌🤙
 
-- 🔭 Trabalho em uma provedora de internet
+- 🔭 Atualmente atuo como estagiario 
 - 📕 Estudo Sistemas de informação
 
 <div align="center">
